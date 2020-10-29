@@ -1,0 +1,38 @@
+
+
+@media only screen and (min-width: 768px) {
+  body {
+    background-color: rgb(91, 91, 189);
+    color : rosybrown;
+    font-size: large;
+    display: flex;
+  }
+}
+
+@media only screen and (max-width: 768px) and (min-width: 300px) {
+    body {
+        background-color: rgb(90, 187, 90);
+        font-size: 20px;
+        color: white;    
+    }
+    body div:nth-child(1){
+      width: 66%;
+    }
+    body div:nth-child(2){
+      width: 33%;
+    }
+
+    
+    
+}
+@media only screen and (min-width: 0px) and (max-width: 300px) {
+  body {
+      background-color: rgb(204, 98, 98);
+      font-size: 100px;
+      color: black;
+      font-size: 15px;
+    
+  }
+
+  
+}
