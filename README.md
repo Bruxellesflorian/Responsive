@@ -11,8 +11,8 @@ This is a training for the responsive rendering of a web page.
 # link content
 > [Link](https://bruxellesflorian.github.io/Responsive/)
 ## Content:
-https://github.com/Bruxellesflorian/Responsive/blob/master/index.html
-![preview](preview.PNG)
+
+![preview](preview0.PNG)
 
 
 
